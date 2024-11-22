@@ -2,4 +2,4 @@
 👀 I’m passionate about coding.
 🌱 I’m currently learning C++ and Python.
 📫 Reach me on LinkedIn(https://www.linkedin.com/in/smitha-r-490033264)
-😄 Pronouns: she/her
+
